@@ -15,7 +15,7 @@ The "report" folder contains the PDF document detailing the project report.
 ### 3. src
 The "src" folder is crucial for project execution, housing the main program file and essential function libraries.
 
-### a. exact - constructive - local_search - tabu_search
+#### a. exact - constructive - local_search - tabu_search
 These folders contain the source code for each of the algorithms. 
 
 #### b. model
